@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Copy Paste Playground</string>
+    <string name="app_title">Inazuma Eleven</string>
+    <string name="username">username</string>
+    <string name="password">Password</string>
+    <string name="userandemail">Username/E-mail</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="tos">Terms of Services</string>
+</resources>
